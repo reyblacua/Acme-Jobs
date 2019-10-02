@@ -27,5 +27,5 @@ The following tools and components are required:
 	- Lombok 1.18.8
 
 The contributers to this project are:
-
 	José Garcia Lopez (josegar@alum.us.es)
+  Reyes Blasco Cuadrado (reyblacua@alum.us.es)
